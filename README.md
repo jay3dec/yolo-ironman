@@ -18,4 +18,4 @@ This is Python helper Library for Docusign www.docusign.net To use the Library s
 
 9)embed the DocuSign console view
 
-Before running the Sample codes don't forget to configure the Username ,Password and IntegratorKey in the scripts.
+Before running the Sample codes don't forget to configure the Username ,Password and IntegratorKey in the sample code scripts.
